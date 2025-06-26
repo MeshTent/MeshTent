@@ -1,6 +1,6 @@
-# MeshTent
+# MeshTent-Human-Comfort-Exoskeleton-Tent 
 
-**MeshTent** is a collapsible trellis exoskeleton shelter system designed for festivals, camping, and humanitarian response. It blends sustainable materials with cultural legacy and open-source values.
+**MeshTent( Mesh Tent Human Comfort ET ( ET Here playfully nods at Exoskeleton Tent a structure designed to give comfort when desiring the warmth of home  ) ** is a collapsible trellis exoskeleton shelter system designed for festivals, camping, and humanitarian response. It blends sustainable materials with cultural legacy and open-source values.
 
 ## 💡 Vision
 To create dignified, durable, and environmentally responsible shelter that is easy to transport, assemble, and repurpose—while honoring global traditions and supporting those most in need.
